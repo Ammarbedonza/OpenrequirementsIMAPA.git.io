@@ -156,7 +156,7 @@ body {
     justify-content: center;
     align-items: center;
     top: 30%;
-    width: 73%px;
+    width: 73%;
     background: transparent;
     border: 5px solid rgba(255, 255, 255, .2);
     backdrop-filter: blur(20px);
